@@ -1,0 +1,21 @@
+{
+  "name": "payment_management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.9.5",
+    "dotenv": "^16.3.1",
+    "graphql": "^16.8.1",
+    "luxon": "^3.4.4",
+    "mysql2": "^3.6.5",
+    "node-cron": "^3.0.3",
+    "nodemailer": "^6.9.7"
+  }
+}

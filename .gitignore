@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directories
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Optional: debugging files
+.sass-cache/
+debug.log
+
+# Optional: build directories
+dist/
+coverage/
+build/
+
+# Optional: OS generated files
+.DS_Store
+Thumbs.db
