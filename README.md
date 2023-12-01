@@ -1,6 +1,6 @@
 # Invoice Generator
 
-The Invoice Generator is a tool designed to automate the creation of invoices and facilitate the process of reminding clients/customers when a due date has been reached.
+The Invoice Generator is a tool developed with Apollo/server and graphql API as well as mySQL, designed to automate the creation of invoices and facilitate the process of reminding clients/customers when a due date has been reached.
 
 ## Features
 
