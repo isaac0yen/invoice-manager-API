@@ -75,7 +75,7 @@ export default {
 
       let deleted
       try {
-        deleted = await _MySQL('transaction', { id })
+        deleted = await _MySQL.deleteOne('transaction', { id })
       } catch (error) {
         console.error(error);
         ThrowError('#AN_ERROR_OCCURRED');
