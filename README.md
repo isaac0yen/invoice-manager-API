@@ -72,6 +72,3 @@ The Invoice Generator is a tool designed to automate the creation of invoices an
 ## Contact
 
 For inquiries or support, please contact Oyeniyi Isaac at isaacoyenniyi06@gmail.com.
-```
-
-Feel free to copy and paste this into your README.md file and adjust any placeholders or details to fit your specific project.
